@@ -6,8 +6,6 @@ This behavior was removed since [Chrome 52](https://codereview.chromium.org/1854
 
 ## How to install
 
-### From the Chrome Web Store
-
 ### From source
 
 This extension requires permissions to access content on all the pages you visit. It's ok if that freaks you out. Handing over those permissions freaks me out too.
